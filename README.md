@@ -3,9 +3,9 @@ Problema do barbeiro dorminhoco feito na linguagem C utilizando Multi-Thread, mu
 
 Criado pelo Repl.it
 
-Integrantes
-Ibrahim Orra RA:  
-Matheus Elias Cruz RA: 221181670  
+__Integrantes__:
+- Ibrahim Orra RA: 221181837  
+- Matheus Elias Cruz RA: 221181670  
 
 Apresenta o relatório diário de clientes atendidos.  
 Apresenta a média de clientes atendidos nos dias úteis de uma semana.
